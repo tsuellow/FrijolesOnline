@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1097933782791",
+    "firebase_url": "https://frijolesonline-default-rtdb.firebaseio.com",
+    "project_id": "frijolesonline",
+    "storage_bucket": "frijolesonline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097933782791:android:4b990fca812f1b8ec0cfa2",
+        "android_client_info": {
+          "package_name": "com.ccy.apps.frijolesonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097933782791-kq4sfs9l9pggjldm2f7m7ebc0aoo20p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ccy.apps.frijolesonline",
+            "certificate_hash": "0fbe2316d3c41e6d2ef454ffcad77f8bb49e5adf"
+          }
+        },
+        {
+          "client_id": "1097933782791-74c8h4sl7dce3mk1g3qv2vs6eoa1nno1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqP5EIa00i8urq17rVCWrI13FMHlTTKDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097933782791-74c8h4sl7dce3mk1g3qv2vs6eoa1nno1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
